@@ -5,4 +5,5 @@ Here's how to build a train departure board using an ESP32, an e-Paper display p
 Check out my channel for other tutorials on how to use the ESP32 and other microcontrollers to display data on ePaper and OLED displays.
 
 UK transport data source as used in video (has a free plan): https://www.transportapi.com/
+
 Nice list of free transportation public APIs: https://github.com/public-apis/public-apis#transportation
