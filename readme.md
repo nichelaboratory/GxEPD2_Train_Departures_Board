@@ -4,7 +4,7 @@ Here's how to build a train departure board using an ESP32, a Waveshare e-Paper 
 
 Full code walkthrough in this video:
 
-[![Live UK Train Departures Board (ESP32 + ePaper Display)](https://img.youtube.com/vi/toWgL52biFA/0.jpg)](https://www.youtube.com/watch?v=GDFLaLhaBBA)
+[![Live UK Train Departures Board (ESP32 + ePaper Display)](https://img.youtube.com/vi/GDFLaLhaBBA/0.jpg)](https://www.youtube.com/watch?v=GDFLaLhaBBA)
 
 Click on the image above to watch the video or go here: https://youtu.be/GDFLaLhaBBA
 
